@@ -1,4 +1,4 @@
-# Hi, I'm Sam 👋
+# Hi, I'm SaIm 👋
 
 **Computer Science Student | Software Developer**
 
