@@ -27,7 +27,7 @@ I am currently refining my **SQL** proficiency and exploring **automated testing
 
 ### 📬 Connect with me
 * [LinkedIn](https://linkedin.com/in/your-profile)
-* [Portfolio/Contact](mailto:your-email@example.com)
+*
 
 ---
 *Generated with a focus on system efficiency and modular design.*
