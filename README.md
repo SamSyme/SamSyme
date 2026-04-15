@@ -1,40 +1,57 @@
-# Hi, I'm SaIm 👋
+# Hi, I’m Saim Nadeem 👋  
 
-**Computer Science Student | Software Developer**
+**Computer Science Student | Aspiring Software Developer**
 
-I’m a developer focused on building efficient, logic-driven systems. My background in  Computer Science has given me a unique perspective on problem-solving, technical documentation, and systematic learning.
-
----
-
-### 🕹️ Technical Projects
-* **Arcade Game Development (Godot/GDScript):** * Engineered an arcade-style system focusing on **event-driven architecture** and **state machine** logic.
-    * Implemented custom physics and optimized UI/UX for high-performance real-time feedback.
-* **Systems & Environment:** * Maintaining a "zero-friction" development environment on **EndeavourOS (Linux)**.
-    * Focus on shell scripting, environment automation, and minimalist hardware workflows (ThinkPad).
-
-### 🛠️ Technical Toolkit
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-
-* **Focus Areas:** Database Management, Systems Architecture, and Software Quality Assurance.
-
-### 📈 Current Focus
-I am currently refining my **SQL** proficiency and exploring **automated testing workflows** to streamline development cycles. I’m interested in roles that value clean code, robust documentation, and a disciplined approach to software design.
+I’m a developer focused on building **efficient, logic-driven systems** with an emphasis on clean code and structured problem-solving. I enjoy breaking down complex problems and designing simple, maintainable solutions.
 
 ---
 
-### 📬 Connect with me
-* [LinkedIn](https://linkedin.com/in/your-profile)
-*
+## 🧠 Core Skills
+- Problem Solving & Logical Thinking  
+- Basic Data Structures & Algorithms  
+- Clean Code Practices  
+- Debugging & Systematic Development  
 
 ---
-*Generated with a focus on system efficiency and modular design.*
 
-### 📬 Connect with me
--https://www.linkedin.com/in/saim-nadeem/
-- 🎥 [YouTube]
--
+## 🕹️ Projects
 
-*"Systems are just stories with stricter rules."*
+### 🎮 Arcade Game System (Godot / GDScript)
+- Built an arcade-style game using **event-driven architecture**  
+- Implemented **state machine logic** for gameplay systems  
+- Designed responsive UI/UX for smooth player interaction  
+- Focused on modular and reusable code structure  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, GDScript  
+- **Tools:** Git, Linux (Beginner), Bash (Beginner)  
+- **Engine:** Godot  
+
+---
+
+## ⚙️ Development Environment
+- Recently transitioned to **Linux (EndeavourOS)**  
+- Learning terminal workflows, package management, and shell basics  
+- Exploring ways to improve development efficiency  
+
+---
+
+## 📈 Current Focus
+- Improving **SQL & database design skills**  
+- Learning **automated testing basics**  
+- Strengthening **core programming fundamentals**  
+
+---
+
+## 🎯 Career Goal
+Seeking **internship opportunities** where I can:
+- Gain real-world development experience  
+- Contribute to meaningful projects  
+- Grow as a software engineer  
+
+---
+
+## 📬 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/saim-nadeem/
